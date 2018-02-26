@@ -1,0 +1,8 @@
+W - MoveForward
+A - RotateLeft
+D - RotateRight
+Q - Add Asteroids
+E - Remove Asteroid
+F - Toggle FPS grafics
+R - Toggle Debug Mode
+T - Respawn Player
